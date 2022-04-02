@@ -1,4 +1,4 @@
-# S02 - Web Scraping Project www.99.co
+# Singapore Property Scraper with Python using Scrapy and Selenium
        
 ## Contents
         
